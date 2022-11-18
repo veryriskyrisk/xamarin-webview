@@ -1,5 +1,7 @@
 # xamarin-webview
 
+Based on: https://learn.microsoft.com/en-us/xamarin/android/user-interface/controls/web-view
+
 How to deploy to the hardware device:
 - use bundletool
 - generate aab
