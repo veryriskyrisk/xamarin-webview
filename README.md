@@ -2,6 +2,9 @@
 
 Based on: https://learn.microsoft.com/en-us/xamarin/android/user-interface/controls/web-view
 
+**Just in case you'll end up looking for an example on how to use WebView in Xamarin - DON'T!
+This is, likely, the worst possible approach to displaying web content in your app. Beware!**
+
 How to deploy to the hardware device:
 - use bundletool
 - generate aab
